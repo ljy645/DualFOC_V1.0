@@ -1,0 +1,17 @@
+# Keil build outputs
+/MDK-ARM/F405_FOC_Ctrl/
+/MDK-ARM/*.lst
+/MDK-ARM/*.build_log.htm
+/MDK-ARM/*.dep
+
+# Personal IDE settings
+*.uvguix.*
+*.uvoptx
+*.bak
+/.vscode/
+/MDK-ARM/.vscode/
+
+# Temporary files
+/tmp/
+Thumbs.db
+.DS_Store
